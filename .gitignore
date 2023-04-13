@@ -1,0 +1,8 @@
+.pytest_cache/
+.mypy_cache/
+.venv/
+
+
+*.lock
+wheels/
+__pycache__/
